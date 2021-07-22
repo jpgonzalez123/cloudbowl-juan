@@ -59,7 +59,6 @@ public class Application {
     String[] commands = new String[]{"F", "R", "L", "T"};
     int i = new Random().nextInt(4);
     //return commands[i];
-    
     return "L";
   }
 
